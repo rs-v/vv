@@ -1,0 +1,18 @@
+theme: jekyll-theme-architect
+show_downloads: false
+show_forks: false
+url: 
+date_format: "ordinal"
+title: 英语学习
+subtitle: "英语改变人生"
+description: "Good Luck"
+keywords: 英语, 呵呵,无助,无结
+timezone: Asia/Hwnan
+encoding: "utf-8"
+side_bar_repo_limit: 5
+
+# ---------------- #
+#      Author      #
+# ---------------- #
+author: w.d
+
